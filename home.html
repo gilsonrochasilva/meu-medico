@@ -1,11 +1,35 @@
 <ion-view title="Meu Médico">
-      <ion-content class="padding">
-          <p>
-              <img src="img/iasep-slogan.png">
-          </p>
+    <ion-side-menus>
+        <!-- Center content -->
+        <ion-side-menu-content>
+            <ion-nav-buttons side="left">
+                <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
+            </ion-nav-buttons>
 
-          <button ng-click="onGuiaMedico()" class="button button-block button-positive">Guia Médico</button>
-          <button ng-click="onExtratoCotas()" class="button button-block button-positive">Extrato de Cotas</button>
-          <button ng-click="onCarteiraVirtual()" class="button button-block button-positive">Carteira Virtual</button>
-      </ion-content>
-  </ion-view>
+            <ion-content class="padding">
+                <p style="text-align: center;"><img src="img/iasep-slogan.png"></p>
+
+                <button ng-click="onGuiaMedico()" class="button button-block button-positive">
+                    Guia Médico
+                </button>
+                <button ng-click="onExtratoCotas()" class="button button-block button-positive">
+                    Extrato de Cotas
+                </button>
+                <button ng-click="onCarteiraVirtual()" class="button button-block button-positive">
+                    Carteira Virtual
+                </button>
+            </ion-content>
+        </ion-side-menu-content>
+
+        <!-- Left menu -->
+        <ion-side-menu side="left">
+            <ion-content>
+                <ul class="list">
+                    <li ng-click="onIdentificacao()" class="item">Meus Dados</li>
+                    <li class="item">Contato</li>
+                    <li class="item">Sobre</li>
+                </ul>
+            </ion-content>
+        </ion-side-menu>
+    </ion-side-menus>
+</ion-view>

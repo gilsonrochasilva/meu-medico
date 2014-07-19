@@ -59,7 +59,8 @@ meuMedico.config(function($stateProvider, $urlRouterProvider) {
             url: "/lista-credenciados",
             views: {
                 'home': {
-                    templateUrl: "lista-credenciados.html"
+                    templateUrl: "lista-credenciados.html",
+                    controller:  "ListaCredenciadosController"
                 }
             }
         })
@@ -67,7 +68,8 @@ meuMedico.config(function($stateProvider, $urlRouterProvider) {
             url: "/cidades",
             views: {
                 'home': {
-                    templateUrl: "cidades.html"
+                    templateUrl: "cidades.html",
+                    controller:  "CidadesController"
                 }
             }
         })
@@ -75,17 +77,36 @@ meuMedico.config(function($stateProvider, $urlRouterProvider) {
             url: "/especialidades",
             views: {
                 'home': {
-                    templateUrl: "especialidades.html"
+                    templateUrl: "especialidades.html",
+                    controller:  "EspecialidadesController"
+                }
+            }
+        })
+        .state('identificacao', {
+            url: "/identificacao",
+            views: {
+                'home': {
+                    templateUrl: "identificacao.html",
+                    controller:  "IdentificacaoController"
+                }
+            }
+        })
+        .state('detalhe-credenciado', {
+            url: "/detalhe-credenciado",
+            views: {
+                'home': {
+                    templateUrl: "detalhe-credenciado.html"
                 }
             }
         });
 
-
     $urlRouterProvider.otherwise("/home");
 
-})
+});
 
-meuMedico.controller('HomeController', function($scope, $location) {
+meuMedico.controller('HomeController', function($scope, $location, $ionicSideMenuDelegate) {
+    $scope.hideBackBtn = true;
+
     $scope.onGuiaMedico = function() {
         $location.path("/guia-medico");
     };
@@ -96,6 +117,11 @@ meuMedico.controller('HomeController', function($scope, $location) {
 
     $scope.onCarteiraVirtual = function() {
         $location.path("/carteira-virtual");
+    };
+
+    $scope.onIdentificacao = function() {
+        $ionicSideMenuDelegate.toggleLeft();
+        $location.path("/identificacao");
     };
 });
 
@@ -110,5 +136,29 @@ meuMedico.controller('GuiaMedicoController', function($scope, $location) {
 
     $scope.onListaCredenciados = function() {
         $location.path("/lista-credenciados");
+    };
+});
+
+meuMedico.controller('ListaCredenciadosController', function($scope, $location) {
+    $scope.onSelecionar = function() {
+        $location.path("/detalhe-credenciado");
+    };
+});
+
+meuMedico.controller('IdentificacaoController', function($scope, $location) {
+    $scope.onEntrar = function() {
+        $location.path("/home");
+    };
+});
+
+meuMedico.controller('CidadesController', function($scope, $location) {
+    $scope.onSelecionar = function() {
+        $location.path("/guia-medico");
+    };
+});
+
+meuMedico.controller('EspecialidadesController', function($scope, $location) {
+    $scope.onSelecionar = function() {
+        $location.path("/guia-medico");
     };
 });
