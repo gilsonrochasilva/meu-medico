@@ -1,0 +1,26 @@
+<ion-view title="Guia Médico">
+    <ion-content class="padding">
+        <div class="list">
+            <div class="item item-button-right">
+                Cidade
+                <button ng-click="onCidades()" class="button button-clear">
+                    <i class="icon ion-chevron-right"></i>
+                </button>
+            </div>
+
+            <div class="item item-button-right">
+                Especialidade
+                <button ng-click="onEspecialidades()" class="button button-clear">
+                    <i class="icon ion-chevron-right"></i>
+                </button>
+            </div>
+
+            <label class="item item-input">
+                <input type="text" placeholder="Credenciado (opcional)">
+            </label>
+        </div>
+
+        <button ng-click="onListaCredenciados()" class="button button-block button-positive">Buscar</button>
+
+    </ion-content>
+</ion-view>
