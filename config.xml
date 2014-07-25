@@ -7,9 +7,9 @@
         versionCode = "10"
         version     = "1.0.0">
 
-    <name>Meu Médico</name>
+    <name>IASEP</name>
 
-    <description>Meu Médico</description>
+    <description>Guia Médico e Extrato de Costas</description>
 
     <author href="http://www.y2g.com.br/" email="contato@y2g.com.br">
         Y2G - Fazendo a diferença
