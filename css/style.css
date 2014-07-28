@@ -1,8 +1,26 @@
-/* Empty. Add your own CSS if you like */
-.cartao-frente: {
+@charset "UTF-8";
+
+.cartao-frente {
     url(img/cartao_frente.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+.button-iasep {
+    border-color: #025327;
+    background-color: #00662f;
+    color: #fff;
+    font-weight: bold;
+}
+
+.button-iasep:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.button.button-iasep.activated {
+    background-color: #025327;
+    border-color: #025327;
 }

@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72c6d802-f1d6-4b39-a39b-465b9d95fcac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cartao_frente.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/familia.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/iasep-slogan.png" afterPath="$PROJECT_DIR$/img/iasep-slogan.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/icons/android/icon-36.png" afterPath="$PROJECT_DIR$/res/icons/android/icon-36.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/icons/android/icon-48.png" afterPath="$PROJECT_DIR$/res/icons/android/icon-48.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/icons/android/icon-57.png" afterPath="$PROJECT_DIR$/res/icons/android/icon-57.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/icons/android/icon-72.png" afterPath="$PROJECT_DIR$/res/icons/android/icon-72.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/icons/android/icon-96.png" afterPath="$PROJECT_DIR$/res/icons/android/icon-96.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/screen/android/screen-hdpi-portrait.png" afterPath="$PROJECT_DIR$/res/screen/android/screen-hdpi-portrait.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/screen/android/screen-ldpi-portrait.png" afterPath="$PROJECT_DIR$/res/screen/android/screen-ldpi-portrait.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/screen/android/screen-mdpi-portrait.png" afterPath="$PROJECT_DIR$/res/screen/android/screen-mdpi-portrait.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/screen/android/screen-xhdpi-portrait.png" afterPath="$PROJECT_DIR$/res/screen/android/screen-xhdpi-portrait.png" />
+    <list default="true" id="72c6d802-f1d6-4b39-a39b-465b9d95fcac" name="Default" comment="1. Tema verde dos botoes;&#10;2. Imagem da carteira virtual;">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ionic.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/carteira-virtual.html" afterPath="$PROJECT_DIR$/carteira-virtual.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extrato-cotas.html" afterPath="$PROJECT_DIR$/extrato-cotas.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guia-medico.html" afterPath="$PROJECT_DIR$/guia-medico.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/identificacao.html" afterPath="$PROJECT_DIR$/identificacao.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lista-credenciados.html" afterPath="$PROJECT_DIR$/lista-credenciados.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -45,16 +36,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="48" selection-start="234" selection-end="234" vertical-scroll-proportion="-4.6666665" vertical-offset="0" max-vertical-offset="702">
+            <state line="19" column="0" selection-start="688" selection-end="688" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="585">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
+      <file leaf-file-name="lista-credenciados.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lista-credenciados.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="27" selection-start="64" selection-end="249" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="234">
+            <state line="12" column="25" selection-start="561" selection-end="561" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="765">
               <folding />
             </state>
           </provider>
@@ -63,7 +54,70 @@
       <file leaf-file-name="carteira-virtual.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/carteira-virtual.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="34" selection-start="106" selection-end="106" vertical-scroll-proportion="0.06382979" vertical-offset="0" max-vertical-offset="564">
+            <state line="6" column="0" selection-start="385" selection-end="385" vertical-scroll-proportion="0.15261628" vertical-offset="0" max-vertical-offset="688">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cidades.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cidades.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="13" selection-start="95" selection-end="121" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detalhe-credenciado.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/detalhe-credenciado.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="52" selection-start="226" selection-end="226" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="270">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="especialidades.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/especialidades.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="41" selection-start="277" selection-end="277" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="210">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="extrato-cotas.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/extrato-cotas.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="11" selection-start="36" selection-end="127" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="510">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="89" selection-start="484" selection-end="497" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="690">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guia-medico.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guia-medico.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="75" selection-start="842" selection-end="842" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="480">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="identificacao.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/identificacao.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="77" selection-start="794" selection-end="794" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="450">
               <folding />
             </state>
           </provider>
@@ -82,27 +136,27 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/identificacao.html" />
-        <option value="$PROJECT_DIR$/guia-medico.html" />
+        <option value="$PROJECT_DIR$/extrato-cotas.html" />
+        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/cidades.html" />
         <option value="$PROJECT_DIR$/especialidades.html" />
         <option value="$PROJECT_DIR$/detalhe-credenciado.html" />
-        <option value="$PROJECT_DIR$/lista-credenciados.html" />
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/home.html" />
-        <option value="$PROJECT_DIR$/extrato-cotas.html" />
-        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/guia-medico.html" />
+        <option value="$PROJECT_DIR$/identificacao.html" />
+        <option value="$PROJECT_DIR$/lista-credenciados.html" />
         <option value="$PROJECT_DIR$/carteira-virtual.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="49" />
+    <option name="x" value="47" />
     <option name="y" value="24" />
-    <option name="width" value="1317" />
-    <option name="height" value="744" />
+    <option name="width" value="1553" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -130,6 +184,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -192,7 +247,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,24 +328,19 @@
       <created>1405783065399</created>
       <updated>1405783065399</updated>
     </task>
-    <task id="LOCAL-00001" summary="Protótipo">
-      <created>1405807008286</created>
-      <updated>1405807008286</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="24" width="1317" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="47" y="24" width="1553" height="876" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33333334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3324573" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298292" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298292" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2580645" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26406354" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -301,7 +350,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -319,8 +367,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Protótipo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Protótipo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -328,66 +374,189 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="10" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0" vertical-offset="163" max-vertical-offset="702">
+        <state line="19" column="0" selection-start="688" selection-end="688" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="585">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lista-credenciados.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="13" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="918">
+        <state line="16" column="13" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/detalhe-credenciado.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="52" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="324">
+        <state line="4" column="52" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="270">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/especialidades.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="41" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="252">
+        <state line="5" column="41" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="210">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="21" selection-start="2674" selection-end="2674" vertical-scroll-proportion="0.0" vertical-offset="1414" max-vertical-offset="3042">
+        <state line="87" column="21" selection-start="2674" selection-end="2674" vertical-scroll-proportion="0.0" vertical-offset="1305" max-vertical-offset="2535">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="713" selection-end="713" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="2484">
+        <state line="22" column="0" selection-start="729" selection-end="729" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="2070">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/identificacao.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="42" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="540">
+        <state line="2" column="0" selection-start="42" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="450">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="51" selection-start="1124" selection-end="1124" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="720">
-          <folding>
-            <element signature="n#style#0;n#p#0;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#ion-view#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="27" column="29" selection-start="1217" selection-end="1217" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="705">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/guia-medico.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="576">
+        <state line="2" column="0" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="688" selection-end="688" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista-credenciados.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="13" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detalhe-credenciado.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="52" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/especialidades.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="41" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="21" selection-start="2674" selection-end="2674" vertical-scroll-proportion="0.0" vertical-offset="1305" max-vertical-offset="2535">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="713" selection-end="713" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="2070">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/identificacao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="42" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="51" selection-start="1124" selection-end="1124" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guia-medico.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="25" selection-start="787" selection-end="787" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista-credenciados.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="13" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detalhe-credenciado.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="52" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/especialidades.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="41" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="21" selection-start="2674" selection-end="2674" vertical-scroll-proportion="0.0" vertical-offset="1305" max-vertical-offset="2535">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="713" selection-end="713" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="2070">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/identificacao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="42" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="51" selection-start="1124" selection-end="1124" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guia-medico.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="480">
           <folding />
         </state>
       </provider>
@@ -406,94 +575,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cidades.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="13" selection-start="95" selection-end="121" vertical-scroll-proportion="0.10018553" vertical-offset="0" max-vertical-offset="539" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guia-medico.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="576">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/identificacao.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="42" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="72" selection-start="400" selection-end="400" vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="846">
-          <folding>
-            <element signature="n#style#0;n#p#0;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#ion-content#0;n#ion-side-menu-content#0;n#ion-side-menus#0;n#ion-view#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lista-credenciados.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="13" selection-start="626" selection-end="626" vertical-scroll-proportion="-0.6666667" vertical-offset="270" max-vertical-offset="918">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/detalhe-credenciado.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="14" selection-start="95" selection-end="449" vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="324">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extrato-cotas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="65" selection-start="994" selection-end="994" vertical-scroll-proportion="-14.0" vertical-offset="0" max-vertical-offset="612">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="29" selection-start="375" selection-end="375" vertical-scroll-proportion="-0.3180212" vertical-offset="378" max-vertical-offset="2934">
+        <state line="22" column="0" selection-start="729" selection-end="729" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="2070">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="21" selection-start="2674" selection-end="2674" vertical-scroll-proportion="0.2571912" vertical-offset="1414" max-vertical-offset="3042">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/especialidades.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="41" selection-start="277" selection-end="277" vertical-scroll-proportion="0.15957446" vertical-offset="0" max-vertical-offset="564">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="48" selection-start="234" selection-end="234" vertical-scroll-proportion="-4.6666665" vertical-offset="0" max-vertical-offset="702">
+        <state line="87" column="21" selection-start="2674" selection-end="2674" vertical-scroll-proportion="0.0" vertical-offset="1414" max-vertical-offset="3042">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="27" selection-start="64" selection-end="249" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="234">
+        <state line="10" column="1" selection-start="230" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cidades.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="13" selection-start="95" selection-end="121" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detalhe-credenciado.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="52" selection-start="226" selection-end="226" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/especialidades.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="41" selection-start="277" selection-end="277" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guia-medico.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="75" selection-start="842" selection-end="842" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/identificacao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="77" selection-start="794" selection-end="794" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="688" selection-end="688" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista-credenciados.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="25" selection-start="561" selection-end="561" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extrato-cotas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="11" selection-start="36" selection-end="127" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="89" selection-start="484" selection-end="497" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="690">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/carteira-virtual.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="34" selection-start="106" selection-end="106" vertical-scroll-proportion="0.06382979" vertical-offset="0" max-vertical-offset="564">
+        <state line="6" column="0" selection-start="385" selection-end="385" vertical-scroll-proportion="0.15261628" vertical-offset="0" max-vertical-offset="688">
           <folding />
         </state>
       </provider>
